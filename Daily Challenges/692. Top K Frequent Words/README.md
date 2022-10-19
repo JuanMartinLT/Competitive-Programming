@@ -1,1 +1,2 @@
 #### Hashmap to count the words then sort by frequency and lexicographic order for words with same frequency
+### TC N log N because of the sorting, could be done in N log K using heap and popping when len(h)>k
