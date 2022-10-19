@@ -1,0 +1,1 @@
+#### Hashmap to count the words then sort by frequency and lexicographic order for words with same frequency
